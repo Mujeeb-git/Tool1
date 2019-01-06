@@ -1,0 +1,2 @@
+This is the notepad file first line.
+This is the second line of the notepad file.
